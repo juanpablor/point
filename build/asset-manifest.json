@@ -10,6 +10,6 @@
   "precache-manifest.8d6c2b688593b01602ee6881e5ff286b.js": "/riano/point/precache-manifest.8d6c2b688593b01602ee6881e5ff286b.js",
   "service-worker.js": "/riano/point/service-worker.js",
   "static/css/main.72bf403c.chunk.css.map": "/riano/point/static/css/main.72bf403c.chunk.css.map",
-  "static/media/logo.png": "/riano/point/static/media/logo.a750d7ea.png",
+  "static/media/logo.png": "https://juanpablor.github.io/point/build/static/media/logo.a750d7ea.png",
   "static/media/styles.css": "/riano/point/static/media/rest5.9c7ccd89.jpeg"
 }
