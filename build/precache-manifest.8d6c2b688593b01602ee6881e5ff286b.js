@@ -17,7 +17,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "a750d7ea0fef9c504497e5feac79b41e",
-    "url": "https://riano/point/static/media/logo.a750d7ea.png"
+    "url": "https://juanpablor.github.io/point/build/static/media/logo.a750d7ea.png"
   },
   {
     "revision": "ad403fa4e06551b4414c25406076d5ef",
