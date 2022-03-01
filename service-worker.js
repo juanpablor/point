@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/riano/point/precache-manifest.78c15512e0ff167f5a3caef850712ee9.js"
+  "/riano/point/precache-manifest.8d6c2b688593b01602ee6881e5ff286b.js"
 );
 
 workbox.clientsClaim();

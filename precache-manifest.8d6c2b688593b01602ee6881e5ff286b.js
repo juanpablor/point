@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/riano/point/static/media/rest2.20495c36.jpeg"
   },
   {
-    "revision": "9c7ccd89682c9cf2596e2b9d752cf059",
-    "url": "/riano/point/static/media/rest5.9c7ccd89.jpeg"
-  },
-  {
     "revision": "3925c821f1c627487a877cff1ad2d3d2",
     "url": "/riano/point/static/media/rest4.3925c821.jpeg"
+  },
+  {
+    "revision": "9c7ccd89682c9cf2596e2b9d752cf059",
+    "url": "/riano/point/static/media/rest5.9c7ccd89.jpeg"
   },
   {
     "revision": "f77baf33f14c159711ac85848484d233",
