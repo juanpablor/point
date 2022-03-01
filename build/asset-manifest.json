@@ -1,15 +1,15 @@
 {
-  "main.css": "https://riano/point/static/css/main.72bf403c.chunk.css",
-  "main.js": "https://riano/point/static/js/main.6a552995.chunk.js",
-  "main.js.map": "https://riano/point/static/js/main.6a552995.chunk.js.map",
-  "runtime~main.js": "https://riano/point/static/js/runtime~main.b7714d17.js",
-  "runtime~main.js.map": "https://riano/point/static/js/runtime~main.b7714d17.js.map",
-  "static/js/2.a02f8740.chunk.js": "https://riano/point/static/js/2.a02f8740.chunk.js",
-  "static/js/2.a02f8740.chunk.js.map": "https://riano/point/static/js/2.a02f8740.chunk.js.map",
-  "index.html": "https://riano/point/index.html",
-  "precache-manifest.8d6c2b688593b01602ee6881e5ff286b.js": "https://riano/point/precache-manifest.8d6c2b688593b01602ee6881e5ff286b.js",
-  "service-worker.js": "https://riano/point/service-worker.js",
-  "static/css/main.72bf403c.chunk.css.map": "https://riano/point/static/css/main.72bf403c.chunk.css.map",
-  "static/media/logo.png": "https://riano/point/static/media/logo.a750d7ea.png",
-  "static/media/styles.css": "https://riano/point/static/media/rest5.9c7ccd89.jpeg"
+  "main.css": "/riano/point/static/css/main.72bf403c.chunk.css",
+  "main.js": "/riano/point/static/js/main.6a552995.chunk.js",
+  "main.js.map": "/riano/point/static/js/main.6a552995.chunk.js.map",
+  "runtime~main.js": "/riano/point/static/js/runtime~main.b7714d17.js",
+  "runtime~main.js.map": "/riano/point/static/js/runtime~main.b7714d17.js.map",
+  "static/js/2.a02f8740.chunk.js": "/riano/point/static/js/2.a02f8740.chunk.js",
+  "static/js/2.a02f8740.chunk.js.map": "/riano/point/static/js/2.a02f8740.chunk.js.map",
+  "index.html": "/riano/point/index.html",
+  "precache-manifest.8d6c2b688593b01602ee6881e5ff286b.js": "/riano/point/precache-manifest.8d6c2b688593b01602ee6881e5ff286b.js",
+  "service-worker.js": "/riano/point/service-worker.js",
+  "static/css/main.72bf403c.chunk.css.map": "/riano/point/static/css/main.72bf403c.chunk.css.map",
+  "static/media/logo.png": "/riano/point/static/media/logo.a750d7ea.png",
+  "static/media/styles.css": "/riano/point/static/media/rest5.9c7ccd89.jpeg"
 }
